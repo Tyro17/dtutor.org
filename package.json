@@ -1,0 +1,14 @@
+{
+	"name": "dtutor.org",
+	"description": "D Tutorials - A one stop shop for all D related tutorial needs",
+	"homepage": "http://dtutor.org",
+	"copyright": "Copyright (c) 2013, Akeron LLC. All rights reserved.",
+	"authors": [
+		"Andrew Edwards"
+	],
+	"dependencies": {
+		"vibe-d": "~master",
+	},
+	"targetPath": "bin",
+	"targetType": "executable"
+}

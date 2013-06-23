@@ -13,4 +13,4 @@ D!(Tutor).org
 
 [![Screenshot](https://raw.github.com/Tyro17/dtutor.org/master/public/images/landing_page.png)](http://dtutor.org)
 
-*D!(Tutor).org is by [Akeron](https://www.akeron.co/)*
+*D!(Tutor).org is by [Akeron](http://www.akeron.co/)*

@@ -1,9 +1,9 @@
-dtutor.org
+D!(Tutor).org
 ==========
 
-Tutorials and more for the D Programming Langauge.
+....a top-notch resource for the D community.
 
-## DTutor!(org) is an open source project!
+## D!(Tutor).org is an open source project!
 
 **Interested in contributing? Help us:**
 
@@ -11,6 +11,6 @@ Tutorials and more for the D Programming Langauge.
 - [File or fix bugs](https://github.com/tyro17/dtutor.org/issues)
 - [Author an article, tutorial, or case study](https://github.com/tyro17/dtutor.org/wiki/Contributors-Guide)
 
-[![DTutor!(org) Screenshot](https://github.com/Tyro17/dtutor.com/public/images/landing_page.png)](http://dtutor.org)
+[![Screenshot](https://github.com/Tyro17/dtutor.com/public/images/landing_page.png)](http://dtutor.org)
 
-*DTutor!(org) is by [Akeron](https://www.akeron.co/)*
+*D!(Tutor).org is by [Akeron](https://www.akeron.co/)*

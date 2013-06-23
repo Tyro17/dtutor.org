@@ -11,6 +11,6 @@ D!(Tutor).org
 - [File or fix bugs](https://github.com/tyro17/dtutor.org/issues)
 - [Author an article, tutorial, or case study](https://github.com/tyro17/dtutor.org/wiki/Contributors-Guide)
 
-[![D!(Tutor).org Screenshot](https://github.com/Tyro17/dtutor.com/public/images/landing_page.png)](http://dtutor.org)
+[![Screenshot](https://github.com/Tyro17/dtutor.com/public/images/landing_page.png)](http://dtutor.org)
 
 *D!(Tutor).org is by [Akeron](https://www.akeron.co/)*

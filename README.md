@@ -1,9 +1,9 @@
 dtutor.org
 ==========
 
-Tutorials and more for the D programming community.
+....a top-notch resource for the D community.
 
-## DTutor!(org) is an open source project!
+## DTutor is an open source project!
 
 **Interested in contributing? Help us:**
 

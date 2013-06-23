@@ -1,7 +1,7 @@
 dtutor.org
 ==========
 
-Tutorials and more for the D Programming Langauge.
+Tutorials and more for the D programming community.
 
 ## DTutor!(org) is an open source project!
 
